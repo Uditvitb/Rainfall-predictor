@@ -1,4 +1,5 @@
 Rainfall Prediction System
+
 Overview
 
 This is a project which predicts rain or not on the basis of the weather variables such as weather temperature, humidity, pressure and the likes through machine learning.
