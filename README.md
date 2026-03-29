@@ -3,12 +3,19 @@ Rainfall Prediction System
 Overview
 
 This is a project which predicts rain or not on the basis of the weather variables such as weather temperature, humidity, pressure and the likes through machine learning.
+
 Features
+
 Takes real-time user input
+
 Identifies with the help of decision tree classifier.
+
 Output simple: will/ will not Rain
+
 Tech Stack
+
 Python
+
 pandas
 scikit-learn
 Project Structure
