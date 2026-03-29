@@ -33,15 +33,26 @@ Setup
 pip install scikit-learn pandas.
 
 Run
+
 python main.py
 
 Working
+
 Data is pre-processed and cleansed.
+
 Decision Tree use in training the model.
+
 Model is fed with user input upon which prediction is carried out.
+
 Output
+
 1 - will Rain
+
 0 - will not rain
+
 Future Scope
+
 Enhance precision using sophisticated designs.
+
 Add GUI or web app
+
