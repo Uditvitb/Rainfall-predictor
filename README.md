@@ -1,5 +1,16 @@
 Rainfall Prediction System
 
+Name - Udit Kiran
+
+Registration no. - 25BAC10006
+
+Branch - Electronics communication engineering with AI
+and Cybernatics
+
+Year - 2025-2029
+
+Course Code - CSA2001
+
 Overview
 
 This is a project which predicts rain or not on the basis of the weather variables such as weather temperature, humidity, pressure and the likes through machine learning.
