@@ -17,12 +17,19 @@ Tech Stack
 Python
 
 pandas
+
 scikit-learn
+
 Project Structure
+
 main.py        # User input & output
+
 score.py       # Results and predictions of the solvent model.
+
 Rainfall.csv   # Dataset
+
 Setup
+
 pip install scikit-learn pandas.
 
 Run
